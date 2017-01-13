@@ -1,8 +1,8 @@
 #!/bin/bash
 #
 #/*  Build date : WED,OCT-12,2016
-# *  Modified   : THU , 20 OCT 2016
-# *  author     : matrix , dxdia
+# *  Modified   : --
+# *  author     : Mesaj, matrix
 # *  DONT'T MESS WITH THE SCRIPTS UNLESS YOU DON'T KNOW
 # *  WHAT YOU ARE DOING!
 # *  /
@@ -540,8 +540,8 @@ E_SYS() {
              cd ..
              EXT_MAIN
                    fi
-               fi #FI-1
-        fi  #FI-2
+               fi 
+        fi  
 
      }
 
